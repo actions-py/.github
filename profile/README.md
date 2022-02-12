@@ -11,5 +11,6 @@ In the future there might be a landing page like the one of [actions-rs](https:/
 The following resources are used to find Actions.
 
 - [GitHub Marketplace (Actions)](https://github.com/marketplace?type=actions&query=)
+- [GitHub search (topic:github-action)](https://github.com/search?o=desc&q=topic%3Agithub-action&s=stars&type=Repositories)
 - [GitHub Actions](https://github.com/actions)
 - [Awesome Actions](https://github.com/sdras/awesome-actions)
