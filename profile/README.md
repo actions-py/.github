@@ -4,7 +4,7 @@ This GitHub organization is aiming at providing **references to GitHub Actions w
 
 So far the organization contains forks of GitHub repositories only.
 
-In the future there might be a landing page like the one of [actions-rs](https://github.com/actions-rs) as well.
+In the future there will be a [landing page](https://actions-py.github.io/) ([sources](https://github.com/actions-py/actions-py.github.io)) like the one of [actions-rs](https://github.com/actions-rs).
 
 ## Resources
 
